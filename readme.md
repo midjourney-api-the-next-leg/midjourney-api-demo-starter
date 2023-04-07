@@ -21,7 +21,7 @@ To get started with this demo application, follow these steps:
 
 1. Fork the repository to your own repo.
 2. Clone your forked repository to your local machine.
-3. `cd hosting` and install the dependencies using `npm install`.
+3. `cd hosting` and install the dependencies using `npm install`. (There is an additional readme under `/hosting`)
 4. Create a Firebase project and Firestore database.
 5. Set up your Vercel Project for automated deploys.
 6. Add your Firebase project credentials to `hosting/src/db.ts`
