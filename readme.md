@@ -21,12 +21,12 @@ To get started with this demo application, follow these steps:
 
 1. Fork the repository to your own repo.
 2. Clone your forked repository to your local machine.
-3. Install the dependencies using `npm install`.
+3. `cd hosting` and install the dependencies using `npm install`.
 4. Create a Firebase project and Firestore database.
 5. Set up your Vercel Project for automated deploys.
 6. Add your Firebase project credentials to `hosting/src/db.ts`
 7. Add your Next Leg AUTH_TOKEN to `hosting/src/pages/index.ts`
-8. Start the development server using `npm run dev`.
+8. Start the development server for the hosting app using `npm run dev`.
 9. Open http://localhost:3000 in your browser to view the application.
 
 ## Benefits of Using Next.js
